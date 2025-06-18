@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppModuleSiteMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SiteMapUniqueName>msdyn_ProjectServiceCore</SiteMapUniqueName>
+  <EnableCollapsibleGroups>False</EnableCollapsibleGroups>
+  <ShowHome>True</ShowHome>
+  <ShowPinned>True</ShowPinned>
+  <ShowRecents>True</ShowRecents>
+  <SiteMap IntroducedVersion="1.0.0.0">
+    <Area Id="msdyn_ProjectsArea" ResourceId="SitemapDesigner.NewArea" DescriptionResourceId="SitemapDesigner.NewArea" VectorIcon="$webresource:msdyn_/SitemapIcons/SVG/Projects.svg" Icon="/WebResources/msdyn_/SitemapIcons/SVG/Projects.svg" ShowGroups="true" ordinalvalue="0">
+      <Group Id="msdyn_ProjectGroup" ResourceId="SitemapDesigner.NewGroup" IsProfile="false" ToolTipResourseId="SitemapDesigner.Unknown" ordinalvalue="2">
+        <Titles>
+          <Title LCID="1033" Title="Plans" solutionaction="Modified" />
+        </Titles>
+        <SubArea Id="NewSubArea_cc20db17" Icon="/_imgs/imagestrips/transparent_spacer.gif" Entity="msdyn_projectprogram" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ordinalvalue="1" solutionaction="Modified" />
+        <SubArea Id="msdyn_ProjectSubArea" VectorIcon="$webresource:msdyn_/SitemapIcons/SVG/Projects.svg" Icon="/_imgs/imagestrips/transparent_spacer.gif" Entity="msdyn_project" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ordinalvalue="0" solutionaction="Modified">
+          <Titles>
+            <Title LCID="1033" Title="Plans" ordinalvalue="44" solutionaction="Modified" />
+            <Title LCID="1025" Title="الخطط" ordinalvalue="43" solutionaction="Modified" />
+            <Title LCID="1026" Title="Планове" ordinalvalue="42" solutionaction="Modified" />
+            <Title LCID="1027" Title="Plans" ordinalvalue="41" solutionaction="Modified" />
+            <Title LCID="1029" Title="Plány" ordinalvalue="40" solutionaction="Modified" />
+            <Title LCID="1030" Title="Planer" ordinalvalue="39" solutionaction="Modified" />
+            <Title LCID="1031" Title="Pläne" ordinalvalue="38" solutionaction="Modified" />
+            <Title LCID="1032" Title="Σχέδια" ordinalvalue="37" solutionaction="Modified" />
+            <Title LCID="3082" Title="Planes" ordinalvalue="36" solutionaction="Modified" />
+            <Title LCID="1061" Title="Plaanid" ordinalvalue="35" solutionaction="Modified" />
+            <Title LCID="1069" Title="Planak" ordinalvalue="34" solutionaction="Modified" />
+            <Title LCID="1035" Title="Suunnitelmat" ordinalvalue="33" solutionaction="Modified" />
+            <Title LCID="1036" Title="Plans" ordinalvalue="32" solutionaction="Modified" />
+            <Title LCID="1110" Title="Plans" ordinalvalue="31" solutionaction="Modified" />
+            <Title LCID="1037" Title="תוכניות" ordinalvalue="30" solutionaction="Modified" />
+            <Title LCID="1081" Title="योजनाएँ" ordinalvalue="29" solutionaction="Modified" />
+            <Title LCID="1050" Title="Planovi" ordinalvalue="28" solutionaction="Modified" />
+            <Title LCID="1038" Title="Tervek" ordinalvalue="27" solutionaction="Modified" />
+            <Title LCID="1057" Title="Rencana" ordinalvalue="26" solutionaction="Modified" />
+            <Title LCID="1040" Title="Piani" ordinalvalue="25" solutionaction="Modified" />
+            <Title LCID="1041" Title="計画" ordinalvalue="24" solutionaction="Modified" />
+            <Title LCID="1087" Title="Жоспарлар" ordinalvalue="23" solutionaction="Modified" />
+            <Title LCID="1063" Title="Planai" ordinalvalue="21" solutionaction="Modified" />
+            <Title LCID="1062" Title="Plāni" ordinalvalue="20" solutionaction="Modified" />
+            <Title LCID="1086" Title="Pelan" ordinalvalue="19" solutionaction="Modified" />
+            <Title LCID="1044" Title="Planer" ordinalvalue="18" solutionaction="Modified" />
+            <Title LCID="1043" Title="Plannen" ordinalvalue="17" solutionaction="Modified" />
+            <Title LCID="1045" Title="Plany" ordinalvalue="16" solutionaction="Modified" />
+            <Title LCID="1046" Title="Planos" ordinalvalue="15" solutionaction="Modified" />
+            <Title LCID="2070" Title="Planos" ordinalvalue="14" solutionaction="Modified" />
+            <Title LCID="1048" Title="Planuri" ordinalvalue="13" solutionaction="Modified" />
+            <Title LCID="1049" Title="Планы" ordinalvalue="12" solutionaction="Modified" />
+            <Title LCID="1051" Title="Plány" ordinalvalue="11" solutionaction="Modified" />
+            <Title LCID="1060" Title="Načrti" ordinalvalue="10" solutionaction="Modified" />
+            <Title LCID="3098" Title="Планови" ordinalvalue="9" solutionaction="Modified" />
+            <Title LCID="2074" Title="Planovi" ordinalvalue="8" solutionaction="Modified" />
+            <Title LCID="1053" Title="Planer" ordinalvalue="7" solutionaction="Modified" />
+            <Title LCID="1054" Title="แผน" ordinalvalue="6" solutionaction="Modified" />
+            <Title LCID="1055" Title="Planlar" ordinalvalue="5" solutionaction="Modified" />
+            <Title LCID="1058" Title="Плани" ordinalvalue="4" solutionaction="Modified" />
+            <Title LCID="1066" Title="Kế hoạch" ordinalvalue="3" solutionaction="Modified" />
+            <Title LCID="2052" Title="计划" ordinalvalue="2" solutionaction="Modified" />
+            <Title LCID="3076" Title="方案" ordinalvalue="1" solutionaction="Modified" />
+            <Title LCID="1028" Title="方案" ordinalvalue="0" solutionaction="Modified" />
+          </Titles>
+        </SubArea>
+      </Group>
+      <Group Id="NewGroup_9aeaa708" ResourceId="SitemapDesigner.NewGroup" IsProfile="false" ToolTipResourseId="SitemapDesigner.Unknown" ordinalvalue="4">
+        <SubArea Id="NewSubArea_f7ca159f" ResourceId="Homepage_Dashboards" DescriptionResourceId="Dashboards_Description" Icon="/_imgs/imagestrips/transparent_spacer.gif" Url="/workplace/home_dashboards.aspx" DefaultDashboard="273d6e2f-293d-f011-877b-6045bdc1fe02" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ToolTipResourseId="Dashboards_ToolTip" ordinalvalue="0" solutionaction="Modified" />
+        <SubArea Id="subarea_60c0b211" Icon="/_imgs/imagestrips/transparent_spacer.gif" Entity="knowledgearticle" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ordinalvalue="1" solutionaction="Added" />
+        <SubArea Id="subarea_efd997b6" Icon="/_imgs/imagestrips/transparent_spacer.gif" Entity="knowledgearticle" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ordinalvalue="2" solutionaction="Added" />
+        <SubArea Id="subarea_23cf92b9" Icon="/_imgs/imagestrips/transparent_spacer.gif" Entity="knowledgearticle" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ordinalvalue="3" solutionaction="Added" />
+        <SubArea Id="subarea_4295aed7" Icon="/_imgs/imagestrips/transparent_spacer.gif" Entity="msdyn_projectchange" Client="All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web" AvailableOffline="true" PassParams="false" Sku="All,OnPremise,Live,SPLA" ordinalvalue="4" solutionaction="Added" />
+      </Group>
+    </Area>
+    <Area Id="HLP" ResourceId="Area_Help" ShowGroups="true" DescriptionResourceId="Help_Area_Description" IntroducedVersion="7.0.0.0" ordinalvalue="2">
+      <Group Id="HLP_GRP" ResourceId="Group_Help" DescriptionResourceId="Help_Description" IntroducedVersion="7.0.0.0" IsProfile="false" ToolTipResourseId="Help_ToolTip" ordinalvalue="0">
+        <SubArea Id="Help_Resource_Center" ResourceId="Area_CustomerCenter" DescriptionResourceId="ResourceCenter_Area_Description" Url="https://aka.ms/ProjPowerAppHelpLink" IntroducedVersion="7.0.0.0" AvailableOffline="false" PassParams="false" ordinalvalue="0" solutionaction="Modified" />
+      </Group>
+    </Area>
+  </SiteMap>
+  <LocalizedNames>
+    <LocalizedName description="Plan" languagecode="1033" />
+  </LocalizedNames>
+</AppModuleSiteMap>
